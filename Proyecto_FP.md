@@ -128,36 +128,15 @@
 ---
 ### *21.* Compilador
 
-|  Definición |  Es un programa que se 
-encarga de traducir el código 
-escrito por el programador en 
-un lenguaje de alto nivel a 
-lenguaje de máquina, así la 
-computadora lo puede 
-ejecutar.  |
+|  Definición |  Es un programa que se encarga de traducir el código escrito por el programador en un lenguaje de alto nivel a lenguaje de máquina, así la computadora lo puede ejecutar.  |
 |  --- |  --- |
-|  Ejemplo | Por ejemplo, cuando se escribe un 
-programa en C++ o JavaScript, el 
-compilador se encarga de traducir el 
-código para que la máquina lo 
-pueda leer y ejecutar. |
+|  Ejemplo | Por ejemplo, cuando se escribe un programa en C++ o JavaScript, el compilador se encarga de traducir el código para que la máquina lo pueda leer y ejecutar. |
 ---
 ### *22.* Intérprete
 
-|  Definición |  Es un programa igual que el 
-compilador, pero este ejecuta 
-el código fuente escrito en un 
-lenguaje de alto nivel, 
-traduciéndolo y corriendo el 
-código línea por línea en 
-tiempo real sin necesidad de 
-compilar todo el programa 
-antes. |
+|  Definición |  Es un programa igual que el compilador, pero este ejecuta el código fuente escrito en un lenguaje de alto nivel, traduciéndolo y corriendo el código línea por línea en tiempo real sin necesidad de compilar todo el programa antes. |
 |  --- |  --- |
-|  Ejemplo | Por ejemplo, Python es un intérprete 
-que lee cada línea del código y la 
-ejecuta inmediatamente, mostrando 
-a su vez los resultados.  |
+|  Ejemplo | Por ejemplo, Python es un intérprete que lee cada línea del código y la ejecuta inmediatamente, mostrando a su vez los resultados.  |
 ---
 ### *23.*  Depurador (Debugger) 
 
@@ -234,8 +213,7 @@ registra y administra los cambios en los archivos de un proyecto y ayuda a mante
 ---
 ### *35.*  Merge (Fusión)
 
-|  Definición | Se trata de una operación en un sistema de control de 
-versiones que combina dos ramas o versiones diferentes de un proyecto en una sola, integrando así los cambios que hubo en ambas.  |
+|  Definición | Se trata de una operación en un sistema de control de versiones que combina dos ramas o versiones diferentes de un proyecto en una sola, integrando así los cambios que hubo en ambas.  |
 |  --- |  --- |
 |  Ejemplo |  Por ejemplo, en Git, si trabajas en una rama llamada formula1 y quieres unirla con la rama principal (main), realizas un merge para que el código de ambas quede integrado 
 en un mismo historial.   |
@@ -248,11 +226,9 @@ en un mismo historial.   |
 ---
 ### *37.* Programación síncrona 
 
-|  Definición |  Se trata de un tipo de lenguaje diseñado para programar sistemas reactivos, es decir, aquellos que deben responder 
-a estímulos del entorno en tiempos estrictos.  |
+|  Definición |  Se trata de un tipo de lenguaje diseñado para programar sistemas reactivos, es decir, aquellos que deben responder a estímulos del entorno en tiempos estrictos.  |
 |  --- |  --- |
-|  Ejemplo |  Un ejemplo de esto son lenguajes como Esterel, Lustre o SIGNAL, creados en los años 80, que permiten especificar que una señal 
-ocurra exactamente en sincronía con otra.  |
+|  Ejemplo |  Un ejemplo de esto son lenguajes como Esterel, Lustre o SIGNAL, creados en los años 80, que permiten especificar que una señal ocurra exactamente en sincronía con otra.  |
 ---
 ### *38.*  Programación asíncrona
 
