@@ -188,8 +188,7 @@
 ---
 ### *31.* Git
 
-|  Definición |  Se trata de un sistema de versiones distribuido que 
-registra y administra los cambios en los archivos de un proyecto y ayuda a mantener un historial seguro y eficiente de las modificaciones.  |
+|  Definición |  Se trata de un sistema de versiones distribuido que registra y administra los cambios en los archivos de un proyecto y ayuda a mantener un historial seguro y eficiente de las modificaciones.  |
 |  --- |  --- |
 |  Ejemplo |  Un ejemplo de esto es cuando varios desarrolladores trabajan en un mismo proyecto dentro de GitHub. Git guarda cada cambio en el código y especifica quién y cuándo lo modificó.  |
 ---
